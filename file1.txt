@@ -1,1 +1,2 @@
-This is git repository. My first commitment.
+This is git repository. My first commitment
+chnages to perssit.
