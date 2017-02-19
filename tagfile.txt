@@ -5,3 +5,5 @@ merging to new file
 commmit1
 
 commit2
+
+commit3
